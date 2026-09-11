@@ -34,3 +34,7 @@ The build has no package restore or external dependencies.
 - It only reads playback metadata. It does not control Spotify or collect data.
 - If Spotify is not open, it shows a quiet waiting state.
 - Closing the window exits the app.
+
+## DISCLAIMER
+
+- This app wasn't and won't be affiliated by spotify / apple / any music streaming app
